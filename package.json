@@ -1,0 +1,23 @@
+{
+  "name": "gpu-programming",
+  "version": "1.0.0",
+  "description": "A demonstration using GPU programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gpu",
+    "programming"
+  ],
+  "author": "Dave Bennett",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.14.0",
+    "gpu.js": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
