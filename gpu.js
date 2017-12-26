@@ -16,7 +16,7 @@ const matMult  = gpu.createKernel(function (a, b) {
   });
 
 
-//creating a 5000 X 5000 matrix
+//creating a 1000 X 1000 matrix
 const value = [];
 for (let i = 0; i < SIZE; i++) {
   const row = [];
